@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+
+<html lang="id">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Perkenalan Lea Intan Chlaudya Pongoh</title>
+
+    <style>
+
+        body {
+
+            font-family: "Poppins", sans-serif;
+
+            background: linear-gradient(135deg, #d9e8ff, #f7f9ff);
+
+            margin: 0;
+
+            padding: 0;
+
+            color: #333;
+
+        }
+
+        .container {
+
+            display: flex;
+
+            flex-wrap: wrap;
+
+            align-items: center;
+
+            justify-content: center;
+
+            min-height: 100vh;
+
+            padding: 40px;
+
+        }
+
+        .photo {
+
+            flex: 1;
+
+            min-width: 280px;
+
+            text-align: center;
+
+        }
+
+        .photo img {
+
+            width: 280px;
+
+            height: auto;
+
+            border-radius: 10px;
+
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+
+        }
+
+        .info {
+
+            flex: 1;
+
+            min-width: 280px;
+
+            padding: 20px 40px;
+
+        }
+
+        h1 {
+
+            font-size: 2em;
+
+            color: #2a4d8f;
+
+        }
+
+        h2 {
+
+            font-weight: 500;
+
+            color: #5d6d8f;
+
+        }
+
+        p {
+
+            font-size: 1.1em;
+
+            line-height: 1.6;
+
+        }
+
+        .highlight {
+
+            color: #2a4d8f;
+
+            font-weight: bold;
+
+        }
+
+        .footer {
+
+            text-align: center;
+
+            padding: 15px;
+
+            background-color: #f2f6ff;
+
+            color: #777;
+
+            font-size: 0.9em;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="photo">
+
+            <img src="C43CDD5F-7E95-4F82-AB12-1053A3D9F10D.jpeg" alt="Foto Lea Intan Chlaudya Pongoh">
+
+        </div>
+
+        <div class="info">
+
+            <h1>Hai, aku Lea Intan Chlaudya Pongoh! 👋</h1>
+
+            <h2>Mahasiswa Kimia, Universitas Sam Ratulangi Manado</h2>
+
+            <p>
+
+                Saat ini aku sedang menempuh <span class="highlight">semester 3</span> di 
+
+                <span class="highlight">Fakultas Matematika dan Ilmu Pengetahuan Alam</span>.
+
+                Aku suka banget baca novel dan dengerin lagu, apalagi kalau sambil santai di sore hari. 🎧📚
+
+            </p>
+
+            <p>
+
+                Dunia kimia itu seru banget menurutku — selalu ada hal baru yang bisa dipelajari! ✨
+
+            </p>
+
+            <p>
+
+                <strong>NIM:</strong> 241011010016 <br>
+
+                <strong>Program Studi:</strong> Kimia
+
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="footer">
+
+        © 2025 Lea Intan Chlaudya Pongoh | Universitas Sam Ratulangi Manado
+
+    </div>
+
+</body>
+
+</html>
